@@ -4,9 +4,7 @@ This project is a Retrieval-Augmented Generation (RAG) application designed to s
 database. By harnessing the power of few-shot learning techniques, the application adapts 
 a Large Language Model (LLM) to the specific database structure. Gemini-Pro, a language model from Google, is utilized for 
 this purpose. The front end of the application is developed using Streamlit, providing an intuitive interface for users
-to seamlessly interact with the database. This project serves as a complement to the concepts discussed in the accompanying 
-[YouTube video](https://youtu.be/ZEtLyH6u4XE), offering a practical implementation 
-of the discussed techniques.
+to seamlessly interact with the database.
 
 ![RAG SQL Reader](images/rag-sql-diagram.png)
 
@@ -77,3 +75,16 @@ requests to help improve the functionality and usability of the RAG SQL Reader a
 
 # Disclaimer
 This application is intended for educational and informational purposes only. 
+
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+# Contact
+For any questions or suggestions, please reach out to me:
+
+Email: ammubharatram@gmail.com
+
+GitHub username: ammubharatram
+
+[LinkedIn Profile](https://www.linkedin.com/in/bharatramammu/)
