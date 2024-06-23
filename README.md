@@ -41,7 +41,7 @@ To install the RAG SQL Reader application, follow these steps:
 
 Clone the repository:
 
-    git clone https://github.com/Eduardovasquezn/rag-sql-reader.git
+    git clone https://github.com/ammubharatram/rag-sql-reader.git
 
 Navigate to the project directory:
 
@@ -77,9 +77,3 @@ requests to help improve the functionality and usability of the RAG SQL Reader a
 
 # Disclaimer
 This application is intended for educational and informational purposes only. 
-
-# Enjoyed Using RAG SQL Reader? Subscribe to My Channel!
-If you found the RAG SQL Reader helpful and enjoyed using it, consider subscribing to my 
-[YouTube channel](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g?sub_confirmation=1) for more tutorials, 
-tips, and projects related to Python, AI, and web development. Your support helps me create more valuable content 
-for the community!
